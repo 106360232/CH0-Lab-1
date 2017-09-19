@@ -2,7 +2,8 @@
 #include <stdlib.h>
 int main()
 {
-	printf("NTUT");
+	printf("Welcome to C!\n");
+	printf("My name is Penny.\n");
 	system("pause");
 	return 0;
 

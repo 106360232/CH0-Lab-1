@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main()
+int main(void)
 {
-	printf("NTUT");
+	printf("Welcome to C!\n");
+	printf("My student id is : 106360232\n");
 	system("pause");
 	return 0;
 
